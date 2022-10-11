@@ -15,7 +15,7 @@ metadata:
     build.appstudio.openshift.io/component: devfile-sample-go-basic
     pipelines.appstudio.openshift.io/type: build
   name: devfile-sample-go-basic-on-pull-request
-  namespace: demo
+  namespace: demo2
 spec:
   params:
   - name: git-url
